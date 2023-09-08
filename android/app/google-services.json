@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263628969458",
+    "project_id": "travellia-app",
+    "storage_bucket": "travellia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263628969458:android:af27468fa550f0b578c76b",
+        "android_client_info": {
+          "package_name": "com.example.travellia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263628969458-uke6ks65ma5kjm60mjf8q4lmj2dnqank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFZM0CSHwYl9pG1F3g1RYNB6CwaWlM2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263628969458-uke6ks65ma5kjm60mjf8q4lmj2dnqank.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
